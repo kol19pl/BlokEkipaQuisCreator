@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="BlokEkipaQuisCreator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlokEkipaQuisCreator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="BlokEkipaQuisCreator.jar">
+        <element id="module-output" name="BlokEkipaQuisCreator" />
+      </element>
+    </root>
+  </artifact>
+</component>
